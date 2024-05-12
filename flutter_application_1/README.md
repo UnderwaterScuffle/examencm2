@@ -1,3 +1,5 @@
 # flutter_application_1
 
-A new Flutter project.
+Examen Computación Movil
+
+Autor: Diego Nicolas Cisternas Eltit.
